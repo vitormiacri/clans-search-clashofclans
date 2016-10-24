@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: http://clans.clashofclans-experts.com.br/sitemap.xml
